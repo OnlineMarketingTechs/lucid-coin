@@ -1,0 +1,2 @@
+# lucid-coin
+Lucid Coin
